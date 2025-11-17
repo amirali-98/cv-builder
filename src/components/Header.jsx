@@ -11,7 +11,7 @@ export default function Header() {
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <g clip-path="url(#clip0_2_248)">
+          <g clipPath="url(#clip0_2_248)">
             <path
               d="M15.7131 7.18668L12.0251 10.5758C11.6272 10.3967 11.1745 10.3548 10.7468 10.4575C10.3191 10.5602 9.94399 10.801 9.6878 11.1372C9.43162 11.4734 9.31082 11.8835 9.34676 12.2949C9.3827 12.7063 9.57306 13.0926 9.8842 13.3855C10.1953 13.6784 10.6072 13.8591 11.0471 13.8956C11.487 13.9321 11.9265 13.8221 12.2879 13.585C12.6494 13.3479 12.9096 12.999 13.0225 12.5999C13.1354 12.2009 13.0938 11.7773 12.905 11.4042L16.5992 8.01501L15.7131 7.18668Z"
               fill="white"
@@ -40,7 +40,7 @@ export default function Header() {
             opacity="0.7"
             d="M10.1236 0.770416L5.38058 4.69539L0.637539 0.770416"
             stroke="white"
-            stroke-width="2"
+            strokeWidth="2"
           />
         </svg>
       </div>
@@ -90,7 +90,7 @@ export default function Header() {
             opacity="0.7"
             d="M10.1236 0.770416L5.38058 4.69539L0.637539 0.770416"
             stroke="white"
-            stroke-width="2"
+            strokeWidth="2"
           />
         </svg>
       </div>
@@ -108,7 +108,7 @@ export default function Header() {
             opacity="0.7"
             d="M10.1236 0.770416L5.38058 4.69539L0.637539 0.770416"
             stroke="white"
-            stroke-width="2"
+            strokeWidth="2"
           />
         </svg>
       </div>
